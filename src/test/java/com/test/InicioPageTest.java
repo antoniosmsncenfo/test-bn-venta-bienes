@@ -121,7 +121,7 @@ public class InicioPageTest extends TestBase {
         }
 
         try {
-            BufferedWriter writer = new BufferedWriter(new FileWriter(new Date().toString().replace(':', '_').replace(' ', '_')));
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new Date().toString().replace(':', '_').replace(' ', '_')+".txt"));
             for (String linea : listaResultados) {
                 writer.write(linea);
             }
