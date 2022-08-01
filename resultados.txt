@@ -1,0 +1,977 @@
+
+Provincia -> San José, cantón -> San José, distrito -> Carmen
+ Sin resultados
+Provincia -> San José, cantón -> San José, distrito -> Merced
+ Sin resultados
+Provincia -> San José, cantón -> San José, distrito -> Hospital
+nombre -> Inmobiliario, precio -> Precio promoción: ₡ 151,520,690.16, link -> https://www.bnventadebienes.com/properties/3155
+Provincia -> San José, cantón -> San José, distrito -> Catedral
+ Sin resultados
+Provincia -> San José, cantón -> San José, distrito -> Zapote
+ Sin resultados
+Provincia -> San José, cantón -> San José, distrito -> San Francisco de Dos Ríos
+ Sin resultados
+Provincia -> San José, cantón -> San José, distrito -> Uruca
+ Sin resultados
+Provincia -> San José, cantón -> San José, distrito -> Mata Redonda
+ Sin resultados
+Provincia -> San José, cantón -> San José, distrito -> Pavas
+ Sin resultados
+Provincia -> San José, cantón -> San José, distrito -> Hatillo
+ Sin resultados
+Provincia -> San José, cantón -> San José, distrito -> San Sebastián
+ Sin resultados
+Provincia -> San José, cantón -> Escazú, distrito -> Escazú
+ Sin resultados
+Provincia -> San José, cantón -> Escazú, distrito -> San Antonio
+ Sin resultados
+Provincia -> San José, cantón -> Escazú, distrito -> San Rafael
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> Desamparados
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> San Miguel
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> San Juan de Dios
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> San Rafael Arriba
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> San Antonio
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> Frailes
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> Patarrá
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> San Cristóbal
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> Rosario
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> Damas
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> San Rafael Abajo
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> Gravilias
+ Sin resultados
+Provincia -> San José, cantón -> Desamparados, distrito -> Los Guido
+ Sin resultados
+Provincia -> San José, cantón -> Puriscal, distrito -> Santiago
+ Sin resultados
+Provincia -> San José, cantón -> Puriscal, distrito -> Mercedes Sur
+ Sin resultados
+Provincia -> San José, cantón -> Puriscal, distrito -> Barbacoas
+ Sin resultados
+Provincia -> San José, cantón -> Puriscal, distrito -> Grifo Alto
+ Sin resultados
+Provincia -> San José, cantón -> Puriscal, distrito -> San Rafael
+ Sin resultados
+Provincia -> San José, cantón -> Puriscal, distrito -> Candelarita
+ Sin resultados
+Provincia -> San José, cantón -> Puriscal, distrito -> Desamparaditos
+ Sin resultados
+Provincia -> San José, cantón -> Puriscal, distrito -> San Antonio
+ Sin resultados
+Provincia -> San José, cantón -> Puriscal, distrito -> Chires
+ Sin resultados
+Provincia -> San José, cantón -> Tarrazú, distrito -> San Marcos
+ Sin resultados
+Provincia -> San José, cantón -> Tarrazú, distrito -> San Lorenzo
+ Sin resultados
+Provincia -> San José, cantón -> Tarrazú, distrito -> San Carlos
+ Sin resultados
+Provincia -> San José, cantón -> Aserrí, distrito -> Aserrí
+ Sin resultados
+Provincia -> San José, cantón -> Aserrí, distrito -> Tarbaca
+ Sin resultados
+Provincia -> San José, cantón -> Aserrí, distrito -> Vuelta de Jorco
+ Sin resultados
+Provincia -> San José, cantón -> Aserrí, distrito -> San Gabriel
+ Sin resultados
+Provincia -> San José, cantón -> Aserrí, distrito -> Legua
+ Sin resultados
+Provincia -> San José, cantón -> Aserrí, distrito -> Monterrey
+ Sin resultados
+Provincia -> San José, cantón -> Aserrí, distrito -> Salitrillos
+ Sin resultados
+Provincia -> San José, cantón -> Mora, distrito -> Colón
+ Sin resultados
+Provincia -> San José, cantón -> Mora, distrito -> Guayabo
+ Sin resultados
+Provincia -> San José, cantón -> Mora, distrito -> Tabarcia
+ Sin resultados
+Provincia -> San José, cantón -> Mora, distrito -> Piedras Negras
+ Sin resultados
+Provincia -> San José, cantón -> Mora, distrito -> Picagres
+ Sin resultados
+Provincia -> San José, cantón -> Mora, distrito -> Jaris
+ Sin resultados
+Provincia -> San José, cantón -> Goicoechea, distrito -> Guadalupe
+ Sin resultados
+Provincia -> San José, cantón -> Goicoechea, distrito -> San Francisco
+ Sin resultados
+Provincia -> San José, cantón -> Goicoechea, distrito -> Calle Blancos
+ Sin resultados
+Provincia -> San José, cantón -> Goicoechea, distrito -> Mata de Plátano
+ Sin resultados
+Provincia -> San José, cantón -> Goicoechea, distrito -> Ipís
+ Sin resultados
+Provincia -> San José, cantón -> Goicoechea, distrito -> Rancho Redondo
+ Sin resultados
+Provincia -> San José, cantón -> Goicoechea, distrito -> Purral
+ Sin resultados
+Provincia -> San José, cantón -> Santa Ana, distrito -> Santa Ana
+ Sin resultados
+Provincia -> San José, cantón -> Santa Ana, distrito -> Salitral
+ Sin resultados
+Provincia -> San José, cantón -> Santa Ana, distrito -> Pozos
+ Sin resultados
+Provincia -> San José, cantón -> Santa Ana, distrito -> Uruca
+ Sin resultados
+Provincia -> San José, cantón -> Santa Ana, distrito -> Piedades
+ Sin resultados
+Provincia -> San José, cantón -> Santa Ana, distrito -> Brasil
+ Sin resultados
+Provincia -> San José, cantón -> Alajuelita, distrito -> Alajuelita
+ Sin resultados
+Provincia -> San José, cantón -> Alajuelita, distrito -> San Josecito
+ Sin resultados
+Provincia -> San José, cantón -> Alajuelita, distrito -> San Antonio
+ Sin resultados
+Provincia -> San José, cantón -> Alajuelita, distrito -> Concepción
+ Sin resultados
+Provincia -> San José, cantón -> Alajuelita, distrito -> San Felipe
+ Sin resultados
+Provincia -> San José, cantón -> Vázquez de Coronado, distrito -> San Isidro
+ Sin resultados
+Provincia -> San José, cantón -> Vázquez de Coronado, distrito -> San Rafael
+ Sin resultados
+Provincia -> San José, cantón -> Vázquez de Coronado, distrito -> Dulce Nombre de Jesús
+ Sin resultados
+Provincia -> San José, cantón -> Vázquez de Coronado, distrito -> Patalillo
+ Sin resultados
+Provincia -> San José, cantón -> Vázquez de Coronado, distrito -> Cascajal
+ Sin resultados
+Provincia -> San José, cantón -> Acosta, distrito -> San Ignacio
+ Sin resultados
+Provincia -> San José, cantón -> Acosta, distrito -> Guaitil
+nombre -> Vivienda, precio -> Precio promoción: ₡ 20,116,682.94, link -> https://www.bnventadebienes.com/properties/auction/3100
+Provincia -> San José, cantón -> Acosta, distrito -> Palmichal
+ Sin resultados
+Provincia -> San José, cantón -> Acosta, distrito -> Cangrejal
+ Sin resultados
+Provincia -> San José, cantón -> Acosta, distrito -> Sabanillas
+ Sin resultados
+Provincia -> San José, cantón -> Tibás, distrito -> San Juan
+ Sin resultados
+Provincia -> San José, cantón -> Tibás, distrito -> Cinco Esquinas
+ Sin resultados
+Provincia -> San José, cantón -> Tibás, distrito -> Anselmo Llorente
+ Sin resultados
+Provincia -> San José, cantón -> Tibás, distrito -> León XIII
+ Sin resultados
+Provincia -> San José, cantón -> Tibás, distrito -> Colima
+ Sin resultados
+Provincia -> San José, cantón -> Moravia, distrito -> San Vicente
+ Sin resultados
+Provincia -> San José, cantón -> Moravia, distrito -> San Jerónimo
+ Sin resultados
+Provincia -> San José, cantón -> Moravia, distrito -> La Trinidad
+ Sin resultados
+Provincia -> San José, cantón -> Montes de Oca, distrito -> San Pedro
+ Sin resultados
+Provincia -> San José, cantón -> Montes de Oca, distrito -> Sabanilla
+ Sin resultados
+Provincia -> San José, cantón -> Montes de Oca, distrito -> Mercedes
+ Sin resultados
+Provincia -> San José, cantón -> Montes de Oca, distrito -> San Rafael
+ Sin resultados
+Provincia -> San José, cantón -> Turrubares, distrito -> San Pablo
+ Sin resultados
+Provincia -> San José, cantón -> Turrubares, distrito -> San Pedro
+nombre -> Finca, precio -> Precio promoción: ₡ 33,605,212.67, link -> https://www.bnventadebienes.com/properties/3000
+Provincia -> San José, cantón -> Turrubares, distrito -> San Juan de Mata
+ Sin resultados
+Provincia -> San José, cantón -> Turrubares, distrito -> San Luis
+ Sin resultados
+Provincia -> San José, cantón -> Turrubares, distrito -> Carara
+ Sin resultados
+Provincia -> San José, cantón -> Dota, distrito -> Santa María
+ Sin resultados
+Provincia -> San José, cantón -> Dota, distrito -> Jardín
+ Sin resultados
+Provincia -> San José, cantón -> Dota, distrito -> Copey
+ Sin resultados
+Provincia -> San José, cantón -> Curridabat, distrito -> Curridabat
+ Sin resultados
+Provincia -> San José, cantón -> Curridabat, distrito -> Granadilla
+ Sin resultados
+Provincia -> San José, cantón -> Curridabat, distrito -> Sánchez
+ Sin resultados
+Provincia -> San José, cantón -> Curridabat, distrito -> Tirrases
+ Sin resultados
+Provincia -> San José, cantón -> Pérez Zeledón, distrito -> San Isidro de El General
+nombre -> Terrenos, precio -> Precio promoción: ₡ 3,949,965.50, link -> https://www.bnventadebienes.com/properties/3113
+nombre -> Terrenos, precio -> Precio promoción: ₡ 3,949,965.50, link -> https://www.bnventadebienes.com/properties/3141
+nombre -> Terrenos, precio -> Precio promoción: ₡ 3,949,965.50, link -> https://www.bnventadebienes.com/properties/3191
+Provincia -> San José, cantón -> Pérez Zeledón, distrito -> General
+ Sin resultados
+Provincia -> San José, cantón -> Pérez Zeledón, distrito -> Daniel Flores
+ Sin resultados
+Provincia -> San José, cantón -> Pérez Zeledón, distrito -> Rivas
+ Sin resultados
+Provincia -> San José, cantón -> Pérez Zeledón, distrito -> San Pedro
+nombre -> Finca, precio -> Precio promoción: ₡ 10,115,763.96, link -> https://www.bnventadebienes.com/properties/3140
+Provincia -> San José, cantón -> Pérez Zeledón, distrito -> Platanares
+ Sin resultados
+Provincia -> San José, cantón -> Pérez Zeledón, distrito -> Pejibaye
+ Sin resultados
+Provincia -> San José, cantón -> Pérez Zeledón, distrito -> Cajón
+nombre -> Terrenos con construcciones, precio -> Precio avalúo: ₡ 22,797,000.00, link -> https://www.bnventadebienes.com/properties/3164
+Provincia -> San José, cantón -> Pérez Zeledón, distrito -> Barú
+ Sin resultados
+Provincia -> San José, cantón -> Pérez Zeledón, distrito -> Río Nuevo
+ Sin resultados
+Provincia -> San José, cantón -> Pérez Zeledón, distrito -> Páramo
+nombre -> Inmobiliario, precio -> Precio promoción: ₡ 44,942,278.47, link -> https://www.bnventadebienes.com/properties/3065
+Provincia -> San José, cantón -> León Cortés Castro, distrito -> San Pablo
+ Sin resultados
+Provincia -> San José, cantón -> León Cortés Castro, distrito -> San Andrés
+ Sin resultados
+Provincia -> San José, cantón -> León Cortés Castro, distrito -> Llano Bonito
+ Sin resultados
+Provincia -> San José, cantón -> León Cortés Castro, distrito -> San Isidro
+ Sin resultados
+Provincia -> San José, cantón -> León Cortés Castro, distrito -> Santa Cruz
+ Sin resultados
+Provincia -> San José, cantón -> León Cortés Castro, distrito -> San Antonio
+ Sin resultados
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> Alajuela
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 41,357,376.00, link -> https://www.bnventadebienes.com/properties/2970
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 41,357,376.00, link -> https://www.bnventadebienes.com/properties/auction/2919
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> San José
+ Sin resultados
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> Carrizal
+ Sin resultados
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> San Antonio
+nombre -> Vivienda, precio -> Precio avalúo: ₡ 84,680,089.65, link -> https://www.bnventadebienes.com/properties/3173
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> Guácima
+ Sin resultados
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> San Isidro
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 28,709,251.20, link -> https://www.bnventadebienes.com/properties/2398
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 28,709,251.20, link -> https://www.bnventadebienes.com/properties/2399
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 28,709,251.20, link -> https://www.bnventadebienes.com/properties/2400
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 28,709,251.20, link -> https://www.bnventadebienes.com/properties/2401
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 28,709,251.20, link -> https://www.bnventadebienes.com/properties/2402
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 28,709,251.20, link -> https://www.bnventadebienes.com/properties/3145
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 28,709,251.20, link -> https://www.bnventadebienes.com/properties/3147
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 28,709,251.20, link -> https://www.bnventadebienes.com/properties/2396
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> Sabanilla
+ Sin resultados
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> San Rafael
+ Sin resultados
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> Río Segundo
+nombre -> Inmobiliario, precio -> Precio promoción: ₡ 85,208,000.86, link -> https://www.bnventadebienes.com/properties/1889
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> Desamparados
+ Sin resultados
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> Turrúcares
+nombre -> Terrenos, precio -> Precio promoción: ₡ 58,054,500.00, link -> https://www.bnventadebienes.com/properties/3097
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> Tambor
+ Sin resultados
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> Garita
+ Sin resultados
+Provincia -> Alajuela, cantón -> Alajuela, distrito -> Sarapiquí
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> San Ramón
+nombre -> Finca, precio -> Precio promoción: ₡ 146,631,003.69, link -> https://www.bnventadebienes.com/properties/3110
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> Santiago
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> San Juan
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> Piedades Norte
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> Piedades Sur
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> San Rafael
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> San Isidro
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> Los Ángeles
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> Alfaro
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> Volio
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> Concepción
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> Zapotal
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> Peñas Blancas
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Ramón, distrito -> San Lorenzo
+ Sin resultados
+Provincia -> Alajuela, cantón -> Grecia, distrito -> Grecia
+ Sin resultados
+Provincia -> Alajuela, cantón -> Grecia, distrito -> San Isidro
+ Sin resultados
+Provincia -> Alajuela, cantón -> Grecia, distrito -> San José
+ Sin resultados
+Provincia -> Alajuela, cantón -> Grecia, distrito -> San Roque
+ Sin resultados
+Provincia -> Alajuela, cantón -> Grecia, distrito -> Tacares
+ Sin resultados
+Provincia -> Alajuela, cantón -> Grecia, distrito -> Puente de Piedra
+ Sin resultados
+Provincia -> Alajuela, cantón -> Grecia, distrito -> Bolívar
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Mateo, distrito -> San Mateo
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Mateo, distrito -> Desmonte
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Mateo, distrito -> Jesús María
+ Sin resultados
+Provincia -> Alajuela, cantón -> Atenas, distrito -> Atenas
+ Sin resultados
+Provincia -> Alajuela, cantón -> Atenas, distrito -> Jesús
+ Sin resultados
+Provincia -> Alajuela, cantón -> Atenas, distrito -> Mercedes
+ Sin resultados
+Provincia -> Alajuela, cantón -> Atenas, distrito -> San Isidro
+ Sin resultados
+Provincia -> Alajuela, cantón -> Atenas, distrito -> Concepción
+ Sin resultados
+Provincia -> Alajuela, cantón -> Atenas, distrito -> San José
+ Sin resultados
+Provincia -> Alajuela, cantón -> Atenas, distrito -> Santa Eulalia
+ Sin resultados
+Provincia -> Alajuela, cantón -> Atenas, distrito -> Escobal
+ Sin resultados
+Provincia -> Alajuela, cantón -> Naranjo, distrito -> Naranjo
+ Sin resultados
+Provincia -> Alajuela, cantón -> Naranjo, distrito -> San Miguel
+ Sin resultados
+Provincia -> Alajuela, cantón -> Naranjo, distrito -> San José
+ Sin resultados
+Provincia -> Alajuela, cantón -> Naranjo, distrito -> Cirrí Sur
+ Sin resultados
+Provincia -> Alajuela, cantón -> Naranjo, distrito -> San Jerónimo
+ Sin resultados
+Provincia -> Alajuela, cantón -> Naranjo, distrito -> San Juan
+ Sin resultados
+Provincia -> Alajuela, cantón -> Naranjo, distrito -> El Rosario
+ Sin resultados
+Provincia -> Alajuela, cantón -> Naranjo, distrito -> Palmitos
+ Sin resultados
+Provincia -> Alajuela, cantón -> Palmares, distrito -> Palmares
+ Sin resultados
+Provincia -> Alajuela, cantón -> Palmares, distrito -> Zaragoza
+ Sin resultados
+Provincia -> Alajuela, cantón -> Palmares, distrito -> Buenos Aires
+ Sin resultados
+Provincia -> Alajuela, cantón -> Palmares, distrito -> Santiago
+ Sin resultados
+Provincia -> Alajuela, cantón -> Palmares, distrito -> Candelaria
+ Sin resultados
+Provincia -> Alajuela, cantón -> Palmares, distrito -> Esquipulas
+ Sin resultados
+Provincia -> Alajuela, cantón -> Palmares, distrito -> La Granja
+ Sin resultados
+Provincia -> Alajuela, cantón -> Poás, distrito -> San Pedro
+ Sin resultados
+Provincia -> Alajuela, cantón -> Poás, distrito -> San Juan
+ Sin resultados
+Provincia -> Alajuela, cantón -> Poás, distrito -> San Rafael
+ Sin resultados
+Provincia -> Alajuela, cantón -> Poás, distrito -> Carrillos
+ Sin resultados
+Provincia -> Alajuela, cantón -> Poás, distrito -> Sabana Redonda
+ Sin resultados
+Provincia -> Alajuela, cantón -> Orotina, distrito -> Orotina
+ Sin resultados
+Provincia -> Alajuela, cantón -> Orotina, distrito -> El Mastate
+ Sin resultados
+Provincia -> Alajuela, cantón -> Orotina, distrito -> Hacienda Vieja
+ Sin resultados
+Provincia -> Alajuela, cantón -> Orotina, distrito -> Coyolar
+ Sin resultados
+Provincia -> Alajuela, cantón -> Orotina, distrito -> La Ceiba
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> Quesada
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> Florencia
+nombre -> Terrenos con construcciones, precio -> Precio promoción: ₡ 31,661,134.00, link -> https://www.bnventadebienes.com/properties/3078
+nombre -> Terrenos con construcciones, precio -> Precio promoción: ₡ 31,661,134.00, link -> https://www.bnventadebienes.com/properties/3069
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> Buenavista
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> Aguas Zarcas
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> Venecia
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> Pital
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> La Fortuna
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> La Tigra
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> La Palmera
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> Venado
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> Cutris
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> Monterrey
+ Sin resultados
+Provincia -> Alajuela, cantón -> San Carlos, distrito -> Pocosol
+ Sin resultados
+Provincia -> Alajuela, cantón -> Zarcero, distrito -> Zarcero
+ Sin resultados
+Provincia -> Alajuela, cantón -> Zarcero, distrito -> Laguna
+ Sin resultados
+Provincia -> Alajuela, cantón -> Zarcero, distrito -> Tapesco
+ Sin resultados
+Provincia -> Alajuela, cantón -> Zarcero, distrito -> Guadalupe
+ Sin resultados
+Provincia -> Alajuela, cantón -> Zarcero, distrito -> Palmira
+ Sin resultados
+Provincia -> Alajuela, cantón -> Zarcero, distrito -> Zapote
+ Sin resultados
+Provincia -> Alajuela, cantón -> Zarcero, distrito -> Brisas
+ Sin resultados
+Provincia -> Alajuela, cantón -> Sarchi, distrito -> Sarchí Norte
+ Sin resultados
+Provincia -> Alajuela, cantón -> Sarchi, distrito -> Sarchí Sur
+ Sin resultados
+Provincia -> Alajuela, cantón -> Sarchi, distrito -> Toro Amarillo
+ Sin resultados
+Provincia -> Alajuela, cantón -> Sarchi, distrito -> San Pedro
+ Sin resultados
+Provincia -> Alajuela, cantón -> Sarchi, distrito -> Rodríguez
+ Sin resultados
+Provincia -> Alajuela, cantón -> Upala, distrito -> Upala
+nombre -> Terrenos con construcciones, precio -> Precio promoción: ₡ 5,069,485.00, link -> https://www.bnventadebienes.com/properties/3057
+Provincia -> Alajuela, cantón -> Upala, distrito -> Aguas Claras
+ Sin resultados
+Provincia -> Alajuela, cantón -> Upala, distrito -> San José (Pizote)
+ Sin resultados
+Provincia -> Alajuela, cantón -> Upala, distrito -> Bijagua
+ Sin resultados
+Provincia -> Alajuela, cantón -> Upala, distrito -> Delicias
+ Sin resultados
+Provincia -> Alajuela, cantón -> Upala, distrito -> Dos Ríos
+ Sin resultados
+Provincia -> Alajuela, cantón -> Upala, distrito -> Yoliyllal
+ Sin resultados
+Provincia -> Alajuela, cantón -> Los Chiles, distrito -> Los Chiles
+ Sin resultados
+Provincia -> Alajuela, cantón -> Los Chiles, distrito -> Caño Negro
+ Sin resultados
+Provincia -> Alajuela, cantón -> Los Chiles, distrito -> El Amparo
+ Sin resultados
+Provincia -> Alajuela, cantón -> Los Chiles, distrito -> San Jorge
+ Sin resultados
+Provincia -> Alajuela, cantón -> Guatuso, distrito -> San Rafael
+nombre -> Vivienda, precio -> Precio promoción: ₡ 6,177,547.93, link -> https://www.bnventadebienes.com/properties/3109
+Provincia -> Alajuela, cantón -> Guatuso, distrito -> Buenavista
+ Sin resultados
+Provincia -> Alajuela, cantón -> Guatuso, distrito -> Cote
+ Sin resultados
+Provincia -> Alajuela, cantón -> Guatuso, distrito -> Katira
+ Sin resultados
+Provincia -> Alajuela, cantón -> Río Cuarto, distrito -> Santa Isabel
+nombre -> Finca, precio -> Precio avalúo: ₡ 80,835,202.56, link -> https://www.bnventadebienes.com/properties/3088
+Provincia -> Cartago, cantón -> Cartago, distrito -> Oriental
+ Sin resultados
+Provincia -> Cartago, cantón -> Cartago, distrito -> Occidental
+ Sin resultados
+Provincia -> Cartago, cantón -> Cartago, distrito -> Carmen
+nombre -> Vivienda, precio -> Precio promoción: ₡ 101,391,665.55, link -> https://www.bnventadebienes.com/properties/auction/3168
+Provincia -> Cartago, cantón -> Cartago, distrito -> San Nicolás
+nombre -> Vivienda, precio -> Precio promoción: ₡ 46,022,232.12, link -> https://www.bnventadebienes.com/properties/auction/3169
+Provincia -> Cartago, cantón -> Cartago, distrito -> Aguacaliente (San Francisco)
+ Sin resultados
+Provincia -> Cartago, cantón -> Cartago, distrito -> Guadalupe (Arenilla)
+ Sin resultados
+Provincia -> Cartago, cantón -> Cartago, distrito -> Corralillo
+ Sin resultados
+Provincia -> Cartago, cantón -> Cartago, distrito -> Tierra Blanca
+ Sin resultados
+Provincia -> Cartago, cantón -> Cartago, distrito -> Dulce Nombre
+ Sin resultados
+Provincia -> Cartago, cantón -> Cartago, distrito -> Llano Grande
+ Sin resultados
+Provincia -> Cartago, cantón -> Cartago, distrito -> Quebradilla
+ Sin resultados
+Provincia -> Cartago, cantón -> Paraíso, distrito -> Paraíso
+nombre -> Terrenos, precio -> Precio promoción: ₡ 13,638,450.00, link -> https://www.bnventadebienes.com/properties/2555
+nombre -> Terrenos, precio -> Precio promoción: ₡ 13,638,450.00, link -> https://www.bnventadebienes.com/properties/2554
+nombre -> Terrenos, precio -> Precio promoción: ₡ 13,638,450.00, link -> https://www.bnventadebienes.com/properties/2553
+Provincia -> Cartago, cantón -> Paraíso, distrito -> Santiago
+ Sin resultados
+Provincia -> Cartago, cantón -> Paraíso, distrito -> Orosi
+ Sin resultados
+Provincia -> Cartago, cantón -> Paraíso, distrito -> Cachí
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 49,572,000.00, link -> https://www.bnventadebienes.com/properties/2733
+Provincia -> Cartago, cantón -> Paraíso, distrito -> Llanos de Santa Lucía
+ Sin resultados
+Provincia -> Cartago, cantón -> La Unión, distrito -> Tres Ríos
+ Sin resultados
+Provincia -> Cartago, cantón -> La Unión, distrito -> San Diego
+ Sin resultados
+Provincia -> Cartago, cantón -> La Unión, distrito -> San Juan
+ Sin resultados
+Provincia -> Cartago, cantón -> La Unión, distrito -> San Rafael
+ Sin resultados
+Provincia -> Cartago, cantón -> La Unión, distrito -> Concepción
+ Sin resultados
+Provincia -> Cartago, cantón -> La Unión, distrito -> Dulce Nombre
+ Sin resultados
+Provincia -> Cartago, cantón -> La Unión, distrito -> San Ramón
+ Sin resultados
+Provincia -> Cartago, cantón -> La Unión, distrito -> Río Azul
+ Sin resultados
+Provincia -> Cartago, cantón -> Jiménez, distrito -> Juan Viñas
+ Sin resultados
+Provincia -> Cartago, cantón -> Jiménez, distrito -> Tucurrique
+ Sin resultados
+Provincia -> Cartago, cantón -> Jiménez, distrito -> Pejibaye
+ Sin resultados
+Provincia -> Cartago, cantón -> Turrialba, distrito -> Turrialba
+ Sin resultados
+Provincia -> Cartago, cantón -> Turrialba, distrito -> La Suiza
+ Sin resultados
+Provincia -> Cartago, cantón -> Turrialba, distrito -> Peralta
+ Sin resultados
+Provincia -> Cartago, cantón -> Turrialba, distrito -> Santa Cruz
+ Sin resultados
+Provincia -> Cartago, cantón -> Turrialba, distrito -> Santa Teresita
+ Sin resultados
+Provincia -> Cartago, cantón -> Turrialba, distrito -> Pavones
+ Sin resultados
+Provincia -> Cartago, cantón -> Turrialba, distrito -> Tuis
+nombre -> Finca, precio -> Precio promoción: ₡ 110,836,067.98, link -> https://www.bnventadebienes.com/properties/auction/3162
+Provincia -> Cartago, cantón -> Turrialba, distrito -> Tayutic
+ Sin resultados
+Provincia -> Cartago, cantón -> Turrialba, distrito -> Santa Rosa
+ Sin resultados
+Provincia -> Cartago, cantón -> Turrialba, distrito -> Tres Equis
+ Sin resultados
+Provincia -> Cartago, cantón -> Turrialba, distrito -> La Isabel
+ Sin resultados
+Provincia -> Cartago, cantón -> Turrialba, distrito -> Chirripó
+ Sin resultados
+Provincia -> Cartago, cantón -> Alvarado, distrito -> Pacayas
+nombre -> Terrenos con construcciones, precio -> Precio avalúo: ₡ 28,358,844.72, link -> https://www.bnventadebienes.com/properties/3184
+nombre -> Terrenos con construcciones, precio -> Precio avalúo: ₡ 28,358,844.72, link -> https://www.bnventadebienes.com/properties/3180
+Provincia -> Cartago, cantón -> Alvarado, distrito -> Cervantes
+ Sin resultados
+Provincia -> Cartago, cantón -> Alvarado, distrito -> Capellades
+nombre -> Vivienda, precio -> Precio avalúo: ₡ 55,009,072.15, link -> https://www.bnventadebienes.com/properties/3210
+Provincia -> Cartago, cantón -> Oreamuno, distrito -> San Rafael
+ Sin resultados
+Provincia -> Cartago, cantón -> Oreamuno, distrito -> Cot
+ Sin resultados
+Provincia -> Cartago, cantón -> Oreamuno, distrito -> Potrero Cerrado
+ Sin resultados
+Provincia -> Cartago, cantón -> Oreamuno, distrito -> Cipreses
+ Sin resultados
+Provincia -> Cartago, cantón -> Oreamuno, distrito -> Santa Rosa
+ Sin resultados
+Provincia -> Cartago, cantón -> El Guarco, distrito -> El Tejar
+ Sin resultados
+Provincia -> Cartago, cantón -> El Guarco, distrito -> San Isidro
+nombre -> Terrenos con construcciones, precio -> Precio promoción: ₡ 9,242,388.00, link -> https://www.bnventadebienes.com/properties/2634
+Provincia -> Cartago, cantón -> El Guarco, distrito -> Tobosi
+ Sin resultados
+Provincia -> Cartago, cantón -> El Guarco, distrito -> Patio de Agua
+ Sin resultados
+Provincia -> Heredia, cantón -> Heredia, distrito -> Heredia
+ Sin resultados
+Provincia -> Heredia, cantón -> Heredia, distrito -> Mercedes
+ Sin resultados
+Provincia -> Heredia, cantón -> Heredia, distrito -> San Francisco
+ Sin resultados
+Provincia -> Heredia, cantón -> Heredia, distrito -> Ulloa
+ Sin resultados
+Provincia -> Heredia, cantón -> Heredia, distrito -> Varablanca
+ Sin resultados
+Provincia -> Heredia, cantón -> Barva, distrito -> Barva
+ Sin resultados
+Provincia -> Heredia, cantón -> Barva, distrito -> San Pedro
+ Sin resultados
+Provincia -> Heredia, cantón -> Barva, distrito -> San Pablo
+ Sin resultados
+Provincia -> Heredia, cantón -> Barva, distrito -> San Roque
+ Sin resultados
+Provincia -> Heredia, cantón -> Barva, distrito -> Santa Lucía
+ Sin resultados
+Provincia -> Heredia, cantón -> Barva, distrito -> San José de la Montaña
+ Sin resultados
+Provincia -> Heredia, cantón -> Santo Domingo, distrito -> Santo Domingo
+ Sin resultados
+Provincia -> Heredia, cantón -> Santo Domingo, distrito -> San Vicente
+nombre -> Vivienda, precio -> Precio avalúo: ₡ 134,004,625.68, link -> https://www.bnventadebienes.com/properties/auction/3225
+nombre -> Vivienda, precio -> Precio avalúo: ₡ 134,004,625.68, link -> https://www.bnventadebienes.com/properties/auction/3223
+nombre -> Vivienda, precio -> Precio avalúo: ₡ 134,004,625.68, link -> https://www.bnventadebienes.com/properties/auction/3226
+Provincia -> Heredia, cantón -> Santo Domingo, distrito -> San Miguel
+ Sin resultados
+Provincia -> Heredia, cantón -> Santo Domingo, distrito -> Paracito
+ Sin resultados
+Provincia -> Heredia, cantón -> Santo Domingo, distrito -> Santo Tomás
+ Sin resultados
+Provincia -> Heredia, cantón -> Santo Domingo, distrito -> Santa Rosa
+ Sin resultados
+Provincia -> Heredia, cantón -> Santo Domingo, distrito -> Tures
+ Sin resultados
+Provincia -> Heredia, cantón -> Santo Domingo, distrito -> Para
+ Sin resultados
+Provincia -> Heredia, cantón -> Santa Bárbara, distrito -> Santa Bárbara
+ Sin resultados
+Provincia -> Heredia, cantón -> Santa Bárbara, distrito -> San Pedro
+ Sin resultados
+Provincia -> Heredia, cantón -> Santa Bárbara, distrito -> San Juan
+ Sin resultados
+Provincia -> Heredia, cantón -> Santa Bárbara, distrito -> Jesús
+ Sin resultados
+Provincia -> Heredia, cantón -> Santa Bárbara, distrito -> Santo Domingo
+ Sin resultados
+Provincia -> Heredia, cantón -> Santa Bárbara, distrito -> Puraba
+ Sin resultados
+Provincia -> Heredia, cantón -> San Rafael, distrito -> San Rafael
+ Sin resultados
+Provincia -> Heredia, cantón -> San Rafael, distrito -> San Josécito
+ Sin resultados
+Provincia -> Heredia, cantón -> San Rafael, distrito -> Santiago
+ Sin resultados
+Provincia -> Heredia, cantón -> San Rafael, distrito -> Los Ángeles
+ Sin resultados
+Provincia -> Heredia, cantón -> San Rafael, distrito -> Concepción
+ Sin resultados
+Provincia -> Heredia, cantón -> San Isidro, distrito -> San Isidro
+ Sin resultados
+Provincia -> Heredia, cantón -> San Isidro, distrito -> San José
+ Sin resultados
+Provincia -> Heredia, cantón -> San Isidro, distrito -> Concepción
+ Sin resultados
+Provincia -> Heredia, cantón -> San Isidro, distrito -> San Francisco
+ Sin resultados
+Provincia -> Heredia, cantón -> Belén, distrito -> San Antonio
+ Sin resultados
+Provincia -> Heredia, cantón -> Belén, distrito -> La Ribera
+ Sin resultados
+Provincia -> Heredia, cantón -> Belén, distrito -> La Asunción
+ Sin resultados
+Provincia -> Heredia, cantón -> Flores, distrito -> San Joaquín de Flores
+ Sin resultados
+Provincia -> Heredia, cantón -> Flores, distrito -> Barrantes
+ Sin resultados
+Provincia -> Heredia, cantón -> Flores, distrito -> Llorente
+ Sin resultados
+Provincia -> Heredia, cantón -> San Pablo, distrito -> San Pablo
+ Sin resultados
+Provincia -> Heredia, cantón -> San Pablo, distrito -> Rincón de Sabanilla
+ Sin resultados
+Provincia -> Heredia, cantón -> Sarapiquí, distrito -> Puerto Viejo
+ Sin resultados
+Provincia -> Heredia, cantón -> Sarapiquí, distrito -> La Virgen
+ Sin resultados
+Provincia -> Heredia, cantón -> Sarapiquí, distrito -> Horquetas
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 7,320,000.00, link -> https://www.bnventadebienes.com/properties/closed_auction/3217
+Provincia -> Heredia, cantón -> Sarapiquí, distrito -> Llanuras del Gaspar
+ Sin resultados
+Provincia -> Heredia, cantón -> Sarapiquí, distrito -> Cureña
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Liberia, distrito -> Liberia
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 17,595,970.00, link -> https://www.bnventadebienes.com/properties/3214
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 17,595,970.00, link -> https://www.bnventadebienes.com/properties/3200
+Provincia -> Guanacaste, cantón -> Liberia, distrito -> Cañas Dulces
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Liberia, distrito -> Mayorga
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Liberia, distrito -> Nacascolo
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Liberia, distrito -> Curubande
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nicoya, distrito -> Nicoya
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nicoya, distrito -> Mansion
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nicoya, distrito -> San Antonio
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nicoya, distrito -> Quebrada Honda
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nicoya, distrito -> Samara
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nicoya, distrito -> Nosara
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nicoya, distrito -> Belén de Nosarita
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Santa Cruz, distrito -> Santa Cruz
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Santa Cruz, distrito -> Bolson
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Santa Cruz, distrito -> Veintisiete de Abril
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Santa Cruz, distrito -> Tempate
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Santa Cruz, distrito -> Cartagena
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Santa Cruz, distrito -> Cuajiniquil
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Santa Cruz, distrito -> Diria
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Santa Cruz, distrito -> Cabo Velas
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Santa Cruz, distrito -> Tamarindo
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Bagaces, distrito -> Bagaces
+nombre -> Finca, precio -> Precio promoción: ₡ 43,533,000.00, link -> https://www.bnventadebienes.com/properties/3148
+Provincia -> Guanacaste, cantón -> Bagaces, distrito -> Fortuna
+nombre -> Terrenos, precio -> Precio promoción: ₡ 15,409,077.79, link -> https://www.bnventadebienes.com/properties/3075
+Provincia -> Guanacaste, cantón -> Bagaces, distrito -> Mogote
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Bagaces, distrito -> Río Naranjo
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Carrillo, distrito -> Filadelfia
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Carrillo, distrito -> Palmira
+nombre -> Vivienda, precio -> Precio avalúo: ₡ 14,602,834.94, link -> https://www.bnventadebienes.com/properties/3190
+Provincia -> Guanacaste, cantón -> Carrillo, distrito -> Sardinal
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 10,027,191.60, link -> https://www.bnventadebienes.com/properties/3166
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 10,027,191.60, link -> https://www.bnventadebienes.com/properties/3205
+Provincia -> Guanacaste, cantón -> Carrillo, distrito -> Belén
+nombre -> Terrenos, precio -> Precio promoción: ₡ 9,728,760.00, link -> https://www.bnventadebienes.com/properties/747
+Provincia -> Guanacaste, cantón -> Cañas, distrito -> Cañas
+nombre -> Vivienda, precio -> Precio promoción: ₡ 11,965,572.49, link -> https://www.bnventadebienes.com/properties/3018
+Provincia -> Guanacaste, cantón -> Cañas, distrito -> Palmira
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Cañas, distrito -> San Miguel
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Cañas, distrito -> Bebedero
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Cañas, distrito -> Porozal
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Abangares, distrito -> Juntas
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Abangares, distrito -> Sierra
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Abangares, distrito -> San Juan
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Abangares, distrito -> Colorado
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Tilarán, distrito -> Tilarán
+nombre -> Terrenos, precio -> Precio promoción: ₡ 7,809,120.00, link -> https://www.bnventadebienes.com/properties/3116
+nombre -> Terrenos, precio -> Precio promoción: ₡ 7,809,120.00, link -> https://www.bnventadebienes.com/properties/3207
+Provincia -> Guanacaste, cantón -> Tilarán, distrito -> Quebrada Grande
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Tilarán, distrito -> Tronadora
+nombre -> Terrenos, precio -> Precio promoción: ₡ 11,013,606.75, link -> https://www.bnventadebienes.com/properties/3026
+Provincia -> Guanacaste, cantón -> Tilarán, distrito -> Santa Rosa
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Tilarán, distrito -> Líbano
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Tilarán, distrito -> Tierras Morenas
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Tilarán, distrito -> Arenal
+nombre -> Vivienda, precio -> Precio promoción: ₡ 61,471,830.31, link -> https://www.bnventadebienes.com/properties/3121
+Provincia -> Guanacaste, cantón -> Nandayure, distrito -> Carmona
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nandayure, distrito -> Santa Rita
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nandayure, distrito -> Zapotal
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nandayure, distrito -> San Pablo
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nandayure, distrito -> Porvenir
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Nandayure, distrito -> Bejuco
+nombre -> Terrenos, precio -> Precio promoción: ₡ 59,564,353.26, link -> https://www.bnventadebienes.com/properties/auction/2994
+Provincia -> Guanacaste, cantón -> La Cruz, distrito -> La Cruz
+ Sin resultados
+Provincia -> Guanacaste, cantón -> La Cruz, distrito -> Santa Cecilia
+ Sin resultados
+Provincia -> Guanacaste, cantón -> La Cruz, distrito -> Garita
+ Sin resultados
+Provincia -> Guanacaste, cantón -> La Cruz, distrito -> Santa Elena
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Hojancha, distrito -> Hojancha
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Hojancha, distrito -> Monte Romo
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Hojancha, distrito -> Puerto Carrillo
+ Sin resultados
+Provincia -> Guanacaste, cantón -> Hojancha, distrito -> Huacas
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Puntarenas
+nombre -> Vivienda, precio -> Precio avalúo: ₡ 21,324,157.44, link -> https://www.bnventadebienes.com/properties/3213
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Pitahaya
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Chomes
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Lepanto
+nombre -> Terrenos, precio -> Precio promoción: ₡ 3,893,110.72, link -> https://www.bnventadebienes.com/properties/2345
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Paquera
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Manzanillo
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Guacimal
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Barranca
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Monte Verde
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Isla del Coco
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Cobano
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Chacarita
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Chira
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Acapulco
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> El Roble
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 173,657,310.75, link -> https://www.bnventadebienes.com/properties/3161
+Provincia -> Puntarenas, cantón -> Puntarenas, distrito -> Arancibia
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Esparza, distrito -> Espiritu Santo
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Esparza, distrito -> San Juan Grande
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Esparza, distrito -> Macacona
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Esparza, distrito -> San Rafael
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Esparza, distrito -> San Jerónimo
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Buenos Aires, distrito -> Buenos Aires
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 2,189,285.46, link -> https://www.bnventadebienes.com/properties/3198
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 2,189,285.46, link -> https://www.bnventadebienes.com/properties/3196
+Provincia -> Puntarenas, cantón -> Buenos Aires, distrito -> Volcan
+nombre -> Terrenos, precio -> Precio promoción: ₡ 6,427,785.00, link -> https://www.bnventadebienes.com/properties/3062
+Provincia -> Puntarenas, cantón -> Buenos Aires, distrito -> Potrero Grande
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Buenos Aires, distrito -> Boruca
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Buenos Aires, distrito -> Pilas
+nombre -> Finca, precio -> Precio avalúo: ₡ 18,145,036.56, link -> https://www.bnventadebienes.com/properties/3192
+Provincia -> Puntarenas, cantón -> Buenos Aires, distrito -> Colinas
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Buenos Aires, distrito -> Changena
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Buenos Aires, distrito -> Briolley
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Buenos Aires, distrito -> Brunka
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Montes de Oro, distrito -> Miramar
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Montes de Oro, distrito -> La Unión
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Montes de Oro, distrito -> San Isidro
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Osa, distrito -> Puerto Cortes
+nombre -> Inmobiliario, precio -> Precio promoción: ₡ 12,538,214.44, link -> https://www.bnventadebienes.com/properties/3131
+nombre -> Inmobiliario, precio -> Precio promoción: ₡ 12,538,214.44, link -> https://www.bnventadebienes.com/properties/2715
+Provincia -> Puntarenas, cantón -> Osa, distrito -> Palmar
+nombre -> Vivienda, precio -> Precio promoción: ₡ 20,814,013.25, link -> https://www.bnventadebienes.com/properties/3130
+nombre -> Vivienda, precio -> Precio promoción: ₡ 20,814,013.25, link -> https://www.bnventadebienes.com/properties/3106
+nombre -> Vivienda, precio -> Precio promoción: ₡ 20,814,013.25, link -> https://www.bnventadebienes.com/properties/3212
+Provincia -> Puntarenas, cantón -> Osa, distrito -> Sierpe
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Osa, distrito -> Bahia Ballena
+nombre -> Terrenos con construcciones, precio -> Precio avalúo: ₡ 14,101,200.00, link -> https://www.bnventadebienes.com/properties/auction/3224
+nombre -> Terrenos con construcciones, precio -> Precio avalúo: ₡ 14,101,200.00, link -> https://www.bnventadebienes.com/properties/auction/3222
+Provincia -> Puntarenas, cantón -> Osa, distrito -> Piedras Blancas
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Quepos, distrito -> Quepos
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 9,968,039.58, link -> https://www.bnventadebienes.com/properties/auction/3216
+Provincia -> Puntarenas, cantón -> Quepos, distrito -> Savegre
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Quepos, distrito -> Naranjito
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Golfito, distrito -> Golfito
+nombre -> Vivienda, precio -> Precio avalúo: ₡ 22,720,303.56, link -> https://www.bnventadebienes.com/properties/auction/3220
+nombre -> Vivienda, precio -> Precio avalúo: ₡ 22,720,303.56, link -> https://www.bnventadebienes.com/properties/auction/3221
+Provincia -> Puntarenas, cantón -> Golfito, distrito -> Puerto Jiménez
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 15,517,080.00, link -> https://www.bnventadebienes.com/properties/3193
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 15,517,080.00, link -> https://www.bnventadebienes.com/properties/3199
+Provincia -> Puntarenas, cantón -> Golfito, distrito -> Guaycara
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Golfito, distrito -> Pavon
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Coto Brus, distrito -> San Vito
+nombre -> Terrenos, precio -> Precio avalúo: ₡ 6,842,052.80, link -> https://www.bnventadebienes.com/properties/3195
+Provincia -> Puntarenas, cantón -> Coto Brus, distrito -> Sabalito
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Coto Brus, distrito -> Aguabuena
+nombre -> Inmobiliario, precio -> Precio avalúo: ₡ 64,892,491.00, link -> https://www.bnventadebienes.com/properties/3201
+Provincia -> Puntarenas, cantón -> Coto Brus, distrito -> Limóncito
+nombre -> Finca, precio -> Precio avalúo: ₡ 42,866,451.50, link -> https://www.bnventadebienes.com/properties/3157
+Provincia -> Puntarenas, cantón -> Coto Brus, distrito -> Pittier
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Parrita, distrito -> Parrita
+nombre -> Finca, precio -> Precio promoción: ₡ 37,133,517.60, link -> https://www.bnventadebienes.com/properties/2830
+Provincia -> Puntarenas, cantón -> Corredores, distrito -> Corredor
+nombre -> Vivienda, precio -> Precio promoción: ₡ 15,526,136.77, link -> https://www.bnventadebienes.com/properties/auction/3061
+Provincia -> Puntarenas, cantón -> Corredores, distrito -> La Cuesta
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Corredores, distrito -> Canoas
+nombre -> Terrenos con construcciones, precio -> Precio avalúo: ₡ 19,651,784.75, link -> https://www.bnventadebienes.com/properties/3160
+Provincia -> Puntarenas, cantón -> Corredores, distrito -> Laurel
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Garabito, distrito -> Jacó
+ Sin resultados
+Provincia -> Puntarenas, cantón -> Garabito, distrito -> Tarcoles
+ Sin resultados
+Provincia -> Limón, cantón -> Limón, distrito -> Limón
+ Sin resultados
+Provincia -> Limón, cantón -> Limón, distrito -> Valle La Estrella
+ Sin resultados
+Provincia -> Limón, cantón -> Limón, distrito -> Río Blanco
+ Sin resultados
+Provincia -> Limón, cantón -> Limón, distrito -> Matama
+ Sin resultados
+Provincia -> Limón, cantón -> Pococí, distrito -> Guapiles
+nombre -> Terrenos con construcciones, precio -> Precio avalúo: ₡ 40,774,734.00, link -> https://www.bnventadebienes.com/properties/3204
+Provincia -> Limón, cantón -> Pococí, distrito -> Jiménez
+ Sin resultados
+Provincia -> Limón, cantón -> Pococí, distrito -> Rita
+ Sin resultados
+Provincia -> Limón, cantón -> Pococí, distrito -> Roxana
+ Sin resultados
+Provincia -> Limón, cantón -> Pococí, distrito -> Cariari
+ Sin resultados
+Provincia -> Limón, cantón -> Pococí, distrito -> Colorado
+ Sin resultados
+Provincia -> Limón, cantón -> Siquirres, distrito -> Siquirres
+ Sin resultados
+Provincia -> Limón, cantón -> Siquirres, distrito -> Pacuarito
+ Sin resultados
+Provincia -> Limón, cantón -> Siquirres, distrito -> Florida
+ Sin resultados
+Provincia -> Limón, cantón -> Siquirres, distrito -> Germania
+ Sin resultados
+Provincia -> Limón, cantón -> Siquirres, distrito -> Cairo
+ Sin resultados
+Provincia -> Limón, cantón -> Siquirres, distrito -> Alegria
+ Sin resultados
+Provincia -> Limón, cantón -> Talamanca, distrito -> Bratsi
+ Sin resultados
+Provincia -> Limón, cantón -> Talamanca, distrito -> Sixaola
+ Sin resultados
+Provincia -> Limón, cantón -> Talamanca, distrito -> Cahuita
+ Sin resultados
+Provincia -> Limón, cantón -> Talamanca, distrito -> Telire
+ Sin resultados
+Provincia -> Limón, cantón -> Matina, distrito -> Matina
+nombre -> Terrenos, precio -> Precio promoción: ₡ 6,702,597.36, link -> https://www.bnventadebienes.com/properties/auction/3165
+Provincia -> Limón, cantón -> Matina, distrito -> Battan
+ Sin resultados
+Provincia -> Limón, cantón -> Matina, distrito -> Carrandi
+ Sin resultados
+Provincia -> Limón, cantón -> Guácimo, distrito -> Guácimo
+ Sin resultados
+Provincia -> Limón, cantón -> Guácimo, distrito -> Mercedes
+ Sin resultados
+Provincia -> Limón, cantón -> Guácimo, distrito -> Pocora
+ Sin resultados
+Provincia -> Limón, cantón -> Guácimo, distrito -> Río Jiménez
+ Sin resultados
+Provincia -> Limón, cantón -> Guácimo, distrito -> Duacari
+ Sin resultados

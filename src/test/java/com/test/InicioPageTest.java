@@ -38,13 +38,11 @@ public class InicioPageTest extends TestBase {
         String cantonNombre = "";
         String distritoNombre = "";
 
-
         inicioPage.precioDesde.sendKeys("0");
-        inicioPage.precioHasta.sendKeys("100000000");
+        inicioPage.precioHasta.sendKeys("300000000");
 
-        waitVisibilityOf(10, inicioPage.selectTipoPropiedad);
-        inicioPage.selectTipoPropiedad.click();
-        inicioPage.tipoPropiedadVivienda.click();
+        //inicioPage.selectTipoPropiedad.click();
+        //inicioPage.tipoPropiedadVivienda.click();
 
         waitVisibilityOf(10, inicioPage.selectProvincia);
         inicioPage.selectProvincia.click();
@@ -95,14 +93,14 @@ public class InicioPageTest extends TestBase {
                                 System.out.println("Propiedades encontradas: " + cantidadPropiedadesEncontradas);
 
                                 String viviendasEncontradas =
-                                        "Provincia -> " + provinciaNombre + ", cantón -> " + cantonNombre + ", distrito -> " + distritoNombre;
+                                        "\nProvincia -> " + provinciaNombre + ", cantón -> " + cantonNombre + ", distrito -> " + distritoNombre;
 
                                 if (cantidadPropiedadesEncontradas > 0) {
                                     for (WebElement resultado : inicioPage.listaResultadoPropiedades) {
                                         String nombre = resultado.findElement(By.xpath("//div[2]/div/strong")).getText();
                                         String precio = resultado.findElement(By.xpath("//div[2]/div[5]/div/strong")).getText();
                                         String link = resultado.getAttribute("href");
-                                        viviendasEncontradas += "\n" + "nombre -> " + nombre + ", precio -> " + precio + ", link -> " + link;
+                                        viviendasEncontradas += ("\n" + "nombre -> " + nombre + ", precio -> " + precio + ", link -> " + link);
                                     }
                                 } else {
                                     viviendasEncontradas += "\n Sin resultados";
@@ -121,7 +119,7 @@ public class InicioPageTest extends TestBase {
         }
 
         try {
-            BufferedWriter writer = new BufferedWriter(new FileWriter(new Date().toString().replace(':', '_').replace(' ', '_')));
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new Date().toString().replace(':', '_').replace(' ', '_')+".txt"));
             for (String linea : listaResultados) {
                 writer.write(linea);
             }
